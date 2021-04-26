@@ -8,4 +8,4 @@ Buffalo Retail Group does not collect, transmit, distribute or sell your data.
 
 ### Support or Contact
 
-You may reach the developer at mailto:william@v3solutions.net
+You may reach the developer at william@v3solutions.net
